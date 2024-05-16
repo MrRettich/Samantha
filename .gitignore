@@ -1,3 +1,11 @@
+#folders
+outputs/*
+recordings/*
+logs/*
+images/*
+models/*
+data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

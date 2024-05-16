@@ -1,0 +1,11 @@
+time
+cv2
+openai
+python-dotenv
+wave
+pyaudio
+Pillow
+numpy
+typing-extensions
+simpleaudio
+warnings

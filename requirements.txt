@@ -1,11 +1,8 @@
-time
-cv2
 openai
-python-dotenv
-wave
+cv2
 pyaudio
-Pillow
-numpy
-typing-extensions
 simpleaudio
+python-dotenv
+typing-extensions
+wave
 warnings

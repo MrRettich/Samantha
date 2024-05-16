@@ -6,8 +6,6 @@ import os
 from dotenv import load_dotenv
 import wave
 import pyaudio
-from PIL import Image
-import numpy as np
 from typing_extensions import override
 import simpleaudio as sa
 import warnings

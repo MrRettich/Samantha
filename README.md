@@ -1,6 +1,6 @@
 # Samantha
 
-Samantha is a Python application that integrates with OpenAI's API to perform a variety of tasks, including audio recording, image capturing, audio transcription, and interaction with an AI assistant.
+Samantha is a Python application that integrates with OpenAI's API to perform a variety of tasks, including audio recording, image capturing, audio transcription, and interaction with an AI assistant. It demonstrates using the assistants API and message threads. It is intended to be used with the `GPT-4o` model of Open AI.
 
 ## Features
 
@@ -9,6 +9,8 @@ Samantha is a Python application that integrates with OpenAI's API to perform a 
 - **Audio Transcription**: Transcribes an audio file using OpenAI's Whisper.
 - **Image Processing**: Converts an image file to a format that OpenAI's API can process.
 - **AI Interaction**: Interacts with an AI assistant, adding text and images to a thread and streaming the assistant's responses.
+- **TTS**: Converts the response of the AI into speech and plays it back.
+- **Message Thread**: Conversation is in one thread to enshure continuity of context.
 
 ## Dependencies
 

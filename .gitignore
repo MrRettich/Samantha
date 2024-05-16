@@ -1,8 +1,8 @@
 #folders
-outputs/*
-recordings/*
+data/outputs/*
+data/recordings/*
 logs/*
-images/*
+data/images/*
 models/*
 
 # Byte-compiled / optimized / DLL files
